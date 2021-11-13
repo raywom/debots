@@ -1,1 +1,2 @@
-soon will change...
+AddItemToCartDebot: https://web.ton.surf/debot?address=0%3A7e6514a2319e1633144fcbbe05122067836b0c819b1fcda6e26b289799de818e&net=devnet&restart=true
+BuyItemFromCartDebot: https://web.ton.surf/debot?address=0%3A79e6a7848d6c009a6f1e30836d96df458a0f776f2c4295445e1e00aa16d7e052&net=devnet&restart=true
